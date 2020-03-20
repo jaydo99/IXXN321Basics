@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.Contact-Box {
+  margin-top: 5%;
+  display: flex;
+  flex-direction:row;
+  width: 100%;
+}
+
+.Contact-Card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
